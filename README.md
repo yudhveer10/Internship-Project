@@ -57,9 +57,13 @@ Internship-Project/
 
 👨‍💻 Developer
 Yudhveer Singh Panwar
+
 Full-Stack Developer Intern
+
 📧 yudhveer@example.com
+
 🔗 LinkedIn - https://www.linkedin.com/in/yudhveer-singh-panwar-504339265/
+
 💻 GitHub - https://github.com/yudhveer10
 ---
 
