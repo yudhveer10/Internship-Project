@@ -55,6 +55,12 @@ Internship-Project/
 ├── README.md # Project documentation
 
 
+👨‍💻 Developer
+Yudhveer Singh Panwar
+Full-Stack Developer Intern
+📧 yudhveer@example.com
+🔗 LinkedIn - https://www.linkedin.com/in/yudhveer-singh-panwar-504339265/
+💻 GitHub - https://github.com/yudhveer10
 ---
 
 ## 🚀 Getting Started
@@ -80,21 +86,3 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 
-👨‍💻 Developer
-Yudhveer Singh Panwar
-Full-Stack Developer Intern
-📧 yudhveer@example.com
-🔗 LinkedIn - https://www.linkedin.com/in/yudhveer-singh-panwar-504339265/
-💻 GitHub - https://github.com/yudhveer10
-
-
-📌 Future Enhancements
-Live chat between user and lawyer
-
-Document upload feature for cases
-
-Admin panel for platform management
-
-Lawyer review and rating system
-
-Email notifications
