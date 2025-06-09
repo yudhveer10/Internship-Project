@@ -55,8 +55,8 @@ Internship-Project/
 ├── README.md # Project documentation
 
 
-👨‍💻 Developer
-Yudhveer Singh Panwar
+**👨‍💻 Developer
+Yudhveer Singh Panwar**
 
 Full-Stack Developer Intern
 
@@ -65,6 +65,7 @@ Full-Stack Developer Intern
 🔗 LinkedIn - https://www.linkedin.com/in/yudhveer-singh-panwar-504339265/
 
 💻 GitHub - https://github.com/yudhveer10
+
 ---
 
 ## 🚀 Getting Started
